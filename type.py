@@ -72,8 +72,16 @@ math.sqrt(16)
 4.0
 math.gcd(6, 4)
 2
-math.lcm(4, 5)
-20
+# math.lcm(4, 5)
+# 20
 math.ceil(9.4)
 10
 
+def countdown(n):
+    if n <= 0:
+        print('Blastoff!')  
+    else:
+        print(n)
+        countdown(n-1)
+
+countdown(2)
