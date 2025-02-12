@@ -4,7 +4,8 @@
 **Timeline**: 29 days  
 **Target**: Understand the structure of Python language (version 3.8), practice and gain knowledge on how to write good quality code.
 
-### Ebook #1: [Think Python 2nd edition (14 days)]([https://docs.python.org/3/whatsnew/3.7.html](https://greenteapress.com/thinkpython2/thinkpython2.pdf))
+### Ebook #1: 
+[Think Python 2nd edition (14 days)]([https://docs.python.org/3/whatsnew/3.7.html](https://greenteapress.com/thinkpython2/thinkpython2.pdf))
 
 #### Part I: Basic (3 days)
 - **Chapter 1**: The way of the Program
