@@ -1,0 +1,28 @@
+Hi, I’m commenting on this issue (the way you are interpreting the technical term) so that you can apply it to similar situations in the future. This is for the sake of your English learning as well as programming.
+--------------------
+*Issue:*
+Take this "incremantal development" term as an example:
+- Did you use a translator to convert the term's definition in the book into Vietnamese and include it here? Even though the term was translated, I still don’t understand what 'phát triển gia tăng' means in our mother language. 
+
+Does "incremantaldevelopment" refer to how to develop without encountering bugs? But how? that's a too general definition
+
+
+--------------------
+*Solution/Recommendation*
+Here are my recommendations
+- Don't need to note these words to avoid wasting time, just note some words that you really interested in.
+- When you take note a term, re-define/re-explain it in your own words or just use ChatGPT to explain it for you.
+
+#######For example: 
+- Prompt: In programming, explain the term "incremental development" in a simple way.
+
+- GPT will return something like: "Incremental development is building software step by step, adding small pieces and improving them over time, instead of doing everything at once. It helps ensure everything works as you go."
+
+(if it returns a too long answer, just tell it to make it simpler or shorter)
+
+Now the definition of "Incremental development" is clearer to me, I know what to do and how to develop a piece of code.
+
+Then you can even ask GPT to give you a clear example about that term if you want to learn more about it.
+
+
+**Please apply this mindset to your whole training process.**
