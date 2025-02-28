@@ -1,11 +1,11 @@
 # Python 3 Reading Plan
 
 ## COURSE #1: FUNDAMENTAL
-**Timeline**: 29 days  
+**Timeline**: 33 days  
 **Target**: Understand the structure of Python language (version 3.8), practice and gain knowledge on how to write good quality code.
 
 ### Ebook #1: 
-[Think Python 2nd edition (14 days)](https://greenteapress.com/wp/think-python-2e/)
+[Think Python 2nd edition (18 days)](https://greenteapress.com/wp/think-python-2e/)
 
 #### Part I: Basic (3 days)
 - **Chapter 1**: The way of the Program
@@ -25,11 +25,11 @@
 - **Chapter 11**: Dictionaries
 - **Chapter 12**: Tuples
 
-**Practice #2 (2 days)**  
+**Practice #2 (4 days)**  
 - **Chapter 13**: Case Study: Data Structure Selection  
   *Note: Do all exercises in this chapter (except exercise 13-9).*
 
-#### Part III: OOP (5 days)
+#### Part III: OOP (7 days)
 - **Chapter 14**: Files
 - **Chapter 15**: Classes and Objects
 - **Chapter 16**: Classes and Functions
